@@ -1,5 +1,5 @@
 # Movie Recommender System
-A content based movie recommender system using cosine similarity (Content based)
+A content based movie recommender system using cosine similarity.
 
 
 ## Types of Recomandation system
